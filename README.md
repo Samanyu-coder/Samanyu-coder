@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/a045ad99-7f4f-418e-84c8-78c7bcbc04aa)
 <h1 align="center">Hi 👋, I'm Samanyu Deghuria</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-<img align="right" alt="Coding" width="500"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 # 💫 About Me:
 🔭 I’m currently working on [Sonoriq](https://sonoriq.vercel.app/)<br>👯 I’m looking to collaborate on [Blockchain-Enabled-Health-Records-Service](https://github.com/Samanyu-coder/Blockchain-Enabled-Health-Records-Service.git)<br>🤝 I’m looking for help with[Sonoriq_Backend](https://github.com/Samanyu-coder/Sonoriq_Backend.git)<br>🌱 I’m currently learning ReactJs, NextJs, TypeScript, Tailwind Css<br>💬 Ask me about C++, JavaScript, Java, NodeJs, ExpressJs
